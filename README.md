@@ -10,7 +10,6 @@ First you'll need to pull in the package via composer
     "jejje/gravatar": "1.0"
 }
 ```
-
 And in your `app/config/app.php` you'll need to add the Service Provider.
 
 ```php
@@ -28,7 +27,6 @@ public function index() {
     Gravatar::getImageWithLinkToProfile($email, $size);
 }
 ```
-
 Other methods that are for your disposal are
 
 - `Gravatar::getProfileUrl($email)`
