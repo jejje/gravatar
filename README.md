@@ -1,6 +1,6 @@
 # Gravatar
 This package is part of a simple tutorial from [JejjE's network](http://jejje.net "JejjE's network") and
-and will give you a few simple methods you can call to get a users Gravatar image.
+and will give you a few simple methods you can call to get a users Gravatar image. [Read the Tutorial here](http://jejje.net/create-your-own-laravel-5-package-part-1/)
 
 ## Installation
 First you'll need to pull in the package via composer
