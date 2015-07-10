@@ -1,5 +1,5 @@
 # Gravatar
-[![Build Status](https://travis-ci.org/jejje/gravatar.svg)](https://travis-ci.org/jejje/gravatar)[![Build Status](https://travis-ci.org/jejje/gravatar.svg)](https://travis-ci.org/jejje/gravatar)
+[![Build Status](https://travis-ci.org/jejje/gravatar.svg)](https://travis-ci.org/jejje/gravatar)
 [![Total Downloads](https://poser.pugx.org/jejje/gravatar/d/total.svg)](https://packagist.org/packages/jejje/gravatar)
 [![Latest Stable Version](https://poser.pugx.org/jejje/gravatar/v/stable.svg)](https://packagist.org/packages/jejje/gravatar)
 [![Latest Unstable Version](https://poser.pugx.org/jejje/gravatar/v/unstable.svg)](https://packagist.org/packages/jejje/gravatar)
