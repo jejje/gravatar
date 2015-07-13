@@ -13,7 +13,7 @@ First you'll need to pull in the package via composer
 
 ```js
 "require": {
-    "jejje/gravatar": "dev-master"
+    "jejje/gravatar": "^1"
 }
 ```
 And in your `app/config/app.php` you'll need to add the Service Provider.
