@@ -1,6 +1,6 @@
 # Gravatar
 [![Build Status](https://travis-ci.org/jejje/gravatar.svg)](https://travis-ci.org/jejje/gravatar)
-test Stable Version](https://poser.pugx.org/jejje/gravatar/v/stable)](https://packagist.org/packages/jejje/gravatar) [![Total Downloads](https://poser.pugx.org/jejje/gravatar/downloads)](https://packagist.org/packages/jejje/gravatar) [![Latest Unstable Version](https://poser.pugx.org/jejje/gravatar/v/unstable)](https://packagist.org/packages/jejje/gravatar) [![License](https://poser.pugx.org/jejje/gravatar/license)](https://packagist.org/packages/jejje/gravatar)
+[Stable Version](https://poser.pugx.org/jejje/gravatar/v/stable)](https://packagist.org/packages/jejje/gravatar) [![Total Downloads](https://poser.pugx.org/jejje/gravatar/downloads)](https://packagist.org/packages/jejje/gravatar) [![Latest Unstable Version](https://poser.pugx.org/jejje/gravatar/v/unstable)](https://packagist.org/packages/jejje/gravatar) [![License](https://poser.pugx.org/jejje/gravatar/license)](https://packagist.org/packages/jejje/gravatar)
 This package is part of a simple tutorial from [JejjE's network](http://jejje.net "JejjE's network") and
 and will give you a few simple methods you can call to get a users Gravatar image. [Read the Tutorial here](http://jejje.net/create-your-own-laravel-5-package-part-1/)
 
